@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PicStore/static/css/main.df4eb4f9.chunk.css",
+    "main.js": "/PicStore/static/js/main.a0288a8d.chunk.js",
+    "main.js.map": "/PicStore/static/js/main.a0288a8d.chunk.js.map",
+    "runtime-main.js": "/PicStore/static/js/runtime-main.22a2ea0e.js",
+    "runtime-main.js.map": "/PicStore/static/js/runtime-main.22a2ea0e.js.map",
+    "static/js/2.51ca6734.chunk.js": "/PicStore/static/js/2.51ca6734.chunk.js",
+    "static/js/2.51ca6734.chunk.js.map": "/PicStore/static/js/2.51ca6734.chunk.js.map",
+    "index.html": "/PicStore/index.html",
+    "precache-manifest.4f5ca635efe316e9659311120c97eb06.js": "/PicStore/precache-manifest.4f5ca635efe316e9659311120c97eb06.js",
+    "service-worker.js": "/PicStore/service-worker.js",
+    "static/css/main.df4eb4f9.chunk.css.map": "/PicStore/static/css/main.df4eb4f9.chunk.css.map",
+    "static/js/2.51ca6734.chunk.js.LICENSE.txt": "/PicStore/static/js/2.51ca6734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a2ea0e.js",
+    "static/js/2.51ca6734.chunk.js",
+    "static/css/main.df4eb4f9.chunk.css",
+    "static/js/main.a0288a8d.chunk.js"
+  ]
+}
